@@ -1,4 +1,4 @@
-# student-task-project
+# student-task-manager
 Student Task Management System because it naturally supports authentication, CRUD, search/filtering, and a relational database without becoming unnecessarily complicated
 
 # Student Task Management System
@@ -381,7 +381,7 @@ This project was developed as a CSE471 web application project.
 GitHub:
 
 ```text
-https://github.com/afroza054/student-task-project
+https://github.com/afroza054/Student_task_manager_Infinity
 ```
 
 ## Live Website
