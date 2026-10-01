@@ -143,7 +143,7 @@ The `tasks.user_id` field is a foreign key referencing `users.id`.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/afroza054/student-task-project.git
+git clone https://github.com/afroza054/Student_task_manager_Infinity.git
 ```
 
 Move into the project directory:
